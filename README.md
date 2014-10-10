@@ -13,3 +13,10 @@ A single Metyl-Ammonium at the centre of a 2x2x2 supercell expansion is represen
 alt="Single MA molecule from 2x2x2 Molecular Dynamics" width="480" height="360" border="10" /></a>
 
 
+# Read more
+
+**Molecular ferroelectric contributions to anomalous hysteresis in hybrid perovskite solar cells ￼**
+APL Mat. 2, 081506 (2014); http://dx.doi.org/10.1063/1.4890246
+
+**Atomistic Origins of High-Performance in Hybrid Halide Perovskite Solar Cells**
+Nano Lett., 2014, 14 (5), pp 2584–2590 http://dx.doi.org/10.1021/nl500390f
