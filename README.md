@@ -1,11 +1,9 @@
-PerovskiteKinematics
-====================
+# Perovskite Kinematics
 
 Perovskite Kinematic poster, October 2014 - visit to Korea
 
 
-Molecular Dynamics
-==================
+# Molecular Dynamics
 
 A single Metyl-Ammonium at the centre of a 2x2x2 supercell expansion is represented.
 
