@@ -13,11 +13,11 @@ alt="Single MA molecule from 2x2x2 Molecular Dynamics" width="480" height="360" 
 
 # More Information
 
-[MAPI MD video download][http://figshare.com/articles/Methyl_Ammonium_Lead_Iodide_MAPI_Pervoskite_2x2x2_Supercell_MD/1061490]
+[MAPI MD video download (Figshare)](http://figshare.com/articles/Methyl_Ammonium_Lead_Iodide_MAPI_Pervoskite_2x2x2_Supercell_MD/1061490)
 
 ## Our Codes
 
-[MAPI-MD-analysis >][https://github.com/jarvist/MAPI-MD-analysis]
+[MAPI-MD-analysis >](https://github.com/jarvist/MAPI-MD-analysis)
 
 
 
