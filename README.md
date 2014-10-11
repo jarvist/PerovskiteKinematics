@@ -1,6 +1,6 @@
 # Perovskite Kinematics
 
-
+[Poster Reprint >](https://github.com/jarvist/PerovskiteKinematics)
 
 # Ab-initio Molecular Dynamics
 
