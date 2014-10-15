@@ -1,5 +1,7 @@
 # Perovskite Kinematics
 
+A reprint of the Poster (PDF) is available here.
+
 [Poster Reprint >](https://github.com/jarvist/PerovskiteKinematics)
 
 # Ab-initio Molecular Dynamics
@@ -11,7 +13,8 @@ A single Metyl-Ammonium at the centre of a 2x2x2 supercell expansion is represen
 PBESol functional (corrected GGA)
 Gamma point calculation
 0.5 fs integration timestep for molecular dynamics
-xxx ps total simulation time (this analysis)
+58 ps / 2319 frames total simulation time (this analysis)
+~120 hours of computation on 96 cores on EPSRC ARCHER
 ```
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Rr2DDiYUoNA" target="_blank"><img src="http://img.youtube.com/vi/Rr2DDiYUoNA/0.jpg" 
@@ -19,9 +22,11 @@ alt="Single MA molecule from 2x2x2 Molecular Dynamics" width="480" height="360" 
 
 # Starrynight - on lattice dipole simulation
 
-```
-Custom C codes evaluating classical Hamiltonian on a cubic lattice
-```
+Custom C codes evaluating classical Hamiltonian on a cubic lattice. Due to the simplicity of the Hamiltonian, many million moves can be attempted per second. This allows for a study of relatively long time frames, with fairly equilibrated statistics, on device-sized segments of the Perovskite material.
+
+The code is now fully 3D; data presented in the paper is 2D as this is easier to understand visually.
+
+So far the parameters are calculatd for the methyl-ammonium ions rotating themselves, but equivalent physics would be produced by the inorganic cage distorting and losing centrosymmetry itself.
 
 # Landau Phase Behaviour
 
